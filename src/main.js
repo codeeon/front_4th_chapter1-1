@@ -100,6 +100,7 @@ const MainPage = () => `
               <button>공유</button>
             </div>
           </div>
+          
         </div>
       </main>
 
